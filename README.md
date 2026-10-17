@@ -20,14 +20,8 @@ Proven track record of technical leadership, mentoring cross-functional engineer
 - **Architecture & Paradigms**: Microservices, Highload, Event-Driven Architecture, Domain-Driven Design (DDD), Clean/Hexagonal Architecture, Distributed Systems, gRPC, REST API, GraphQL, WebSockets
 
 ## Education
-
-### Saint Petersburg State University of Telecommunications — Bachelor, Computer Science and Engineering (Sep 2012 – Jun 2016)
-
-_Saint Petersburg_
-
-### Saint Petersburg State University of Telecommunications — Master, Information Systems and Technologies (Sep 2016 – Jun 2018)
-
-_Saint Petersburg_
+Saint Petersburg State University of Telecommunications — Bachelor, Computer Science and Engineering (Sep 2012 – Jun 2016)
+Saint Petersburg State University of Telecommunications — Master, Information Systems and Technologies (Sep 2016 – Jun 2018)
 
 ## Experience
 
